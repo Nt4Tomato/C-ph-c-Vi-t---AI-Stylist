@@ -1,0 +1,6 @@
+{
+  "name": "Cổ Phục Việt",
+  "description": "Ứng dụng khám phá, tìm hiểu lịch sử và phối đồ (Mix & Match) cổ phục truyền thống Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

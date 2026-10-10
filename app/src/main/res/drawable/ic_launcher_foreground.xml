@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Vietnamese Nhat Binh rectangular collar shape -->
+        <path
+            android:fillColor="#E6B800"
+            android:pathData="M38,26 L70,26 L76,46 L66,46 L62,34 L46,34 L42,46 L32,46 Z" />
+        <!-- Inner Jade / Cyan stripe -->
+        <path
+            android:fillColor="#1B8A7E"
+            android:pathData="M42,28 L66,28 L68,36 L64,36 L63,31 L45,31 L44,36 L40,36 Z" />
+        <!-- Robe Body V-drape -->
+        <path
+            android:fillColor="#F4D03F"
+            android:pathData="M34,48 L54,78 L74,48 L68,46 L54,67 L40,46 Z" />
+        <!-- Golden Vietnamese Lotus Blossom (Hoa Sen) at the heart -->
+        <path
+            android:fillColor="#FFF4D0"
+            android:pathData="M54,42 C51,48 48,53 54,62 C60,53 57,48 54,42 Z" />
+        <path
+            android:fillColor="#FFC837"
+            android:pathData="M54,62 C46,59 42,50 46,45 C48,51 52,56 54,62 Z" />
+        <path
+            android:fillColor="#FFC837"
+            android:pathData="M54,62 C62,59 66,50 62,45 C60,51 56,56 54,62 Z" />
+        <!-- Golden Pearl Neckpiece (Kiềng) -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2.2"
+            android:pathData="M43,36 C43,45 65,45 65,36" />
+        <!-- Traditional Non La Silhouette Crown at top -->
+        <path
+            android:fillColor="#FFDF73"
+            android:pathData="M54,16 L36,24 L72,24 Z" />
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#94141E"
+            android:strokeWidth="1.2"
+            android:pathData="M54,18 L54,24" />
+        <!-- Tassels / Huấn Điệp -->
+        <path
+            android:fillColor="#E74C3C"
+            android:pathData="M52,78 L56,78 L55,88 L53,88 Z" />
+        <path
+            android:fillColor="#FFD700"
+            android:pathData="M51,88 L57,88 L55,92 L53,92 Z" />
+    </group>
+</vector>
